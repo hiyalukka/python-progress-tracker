@@ -53,7 +53,7 @@ python-progress-tracker/
 * Add automatic date tracking
 * Add study goals (e.g., 100 hours target)
 * Show average hours per day
-* 
+  
 
 ---
 
